@@ -1,1 +1,2 @@
-# template para currículo com html e css
+# template para currículo com html e bootstrap
+
